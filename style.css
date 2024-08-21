@@ -1,0 +1,12 @@
+body {
+	background-color: #212121;
+	color: white;
+}
+#insert {
+	display: flex;
+	justify-content: center;
+}
+.key {
+	margin-top: 20%;
+	font-size: 2rem;
+}
